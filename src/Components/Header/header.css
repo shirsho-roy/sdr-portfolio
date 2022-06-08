@@ -1,0 +1,38 @@
+header{
+    height:100vh;
+    overflow: hidden;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+.header-container{  
+    text-align: center;
+    position: relative;
+    height:100%;
+}
+.me{
+    
+    width:22rem;
+    height:35rem; 
+    position: absolute;
+    left:calc(50% - 11rem);
+    margin-top: 1.8rem;
+    }
+.me img{
+    border-radius: 1.4rem ;
+    height: 22rem;
+    border: 5px solid rgb(60, 200, 228);
+    padding: 5px;
+}
+.but{
+    margin-top:1.2rem;
+}
+.x{ margin-right: 1.2rem;
+    
+}
+
+/*Small Devices*/
+@media screen and (max-width:600px){
+    header{
+        height:100vh;
+    }
+}
