@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sdr-portfolio/static/css/main.2ce3d08b.css",
+    "main.js": "/sdr-portfolio/static/js/main.5ac68a9a.js",
+    "static/js/787.a7d52acc.chunk.js": "/sdr-portfolio/static/js/787.a7d52acc.chunk.js",
+    "static/media/Hello.jpeg": "/sdr-portfolio/static/media/Hello.a0e62081ef160259ade3.jpeg",
+    "static/media/dev.jpg": "/sdr-portfolio/static/media/dev.686926906aef4d49c2ed.jpg",
+    "index.html": "/sdr-portfolio/index.html",
+    "main.2ce3d08b.css.map": "/sdr-portfolio/static/css/main.2ce3d08b.css.map",
+    "main.5ac68a9a.js.map": "/sdr-portfolio/static/js/main.5ac68a9a.js.map",
+    "787.a7d52acc.chunk.js.map": "/sdr-portfolio/static/js/787.a7d52acc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce3d08b.css",
+    "static/js/main.5ac68a9a.js"
+  ]
+}
