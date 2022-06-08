@@ -1,8 +1,8 @@
-header{
+#home{
     height:100vh;
     overflow: hidden;
     margin-top: 6rem;
-    margin-bottom: 6rem;
+    /* margin-bottom: 6rem; */
 }
 .header-container{  
     text-align: center;

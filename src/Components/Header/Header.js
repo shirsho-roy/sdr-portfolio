@@ -3,7 +3,7 @@ import './header.css';
 import ME from '../../asset/Hello.jpeg';
 const Header = () => {
   return (
-    <header id="home">
+    <section id="home">
       <div className='container header-container'>
         <h5>Hello I am</h5>
         <h2>Shirsho Das Roy</h2>
@@ -16,7 +16,7 @@ const Header = () => {
           <img src={ME} alt="No img" />
         </div>
       </div>
-    </header>
+    </section>
   )
 }
 
