@@ -46,8 +46,9 @@ h2{
   margin:0 auto;
 }
 section{
-  margin-top:7rem;
-  height: 100vh;
+  margin-top:7.8rem;
+  gap:7rem;
+  height: 120vh;
 }
 section>h2 , section>h5{
   text-align: center;
